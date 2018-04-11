@@ -15,4 +15,4 @@ The title should be your first and last name. In the comment field, copy and pas
 The checklist should now be interactive. When you've completed a task, check off the box next to that task:
 ![checklist](/checkboxes.jpg)
 Now, if you look at the list of pull requests, it's easy to track your progress:
-![progress](/interactive.jpg)
+![progress](/interactive.JPG)
