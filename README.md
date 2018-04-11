@@ -5,8 +5,6 @@ How to add checklists to your pull requests to organize and track your work
 
 ## Step 2: Create a pull request
 Click the "New pull request" button, make sure you've selected the right branch (usually you should only have one -- the master branch) and then click "Create pull request."
-![create pull request](/newPR.jpg)<br/><br/>
-![new pull request](/newPR2.jpg)
 
 ## Step 3: Add a title and checklist(s) to your new pull request
 The title should be your first and last name. In the comment field, copy and paste the provided checklist(s). If you want to add other items or notes to self, go ahead! When you're done, click the "Create pull request" button.
